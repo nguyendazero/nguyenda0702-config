@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to EazyBank cards related local APIs "
+  contactDetails:
+    name: "Nguyen Da Da - Developer"
+    email: "nguyendazero@gmail.com"
+  onCallSupport:
+    - (84) 704 531 600
+    - (84) 704 531 601

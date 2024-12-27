@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related QA APIs "
+  contactDetails:
+    name: "Nguyen Da Da - QA Lead"
+    email: "nguyendazero@gmail.com"
+  onCallSupport:
+    - (84) 704 531 600
+    - (84) 704 531 601
